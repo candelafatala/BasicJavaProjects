@@ -1,0 +1,16 @@
+main{
+	padding: 15%;
+}
+ul{
+	list-style: none;
+	vertical-align: middle;
+}
+ul li{
+	display: inline-block;
+    margin: 0% 10%;
+}
+ul li a{
+	font-family: Calibri, Arial, Helvetica, serif;
+    font-size: large;
+    font-weight: normal;
+}
